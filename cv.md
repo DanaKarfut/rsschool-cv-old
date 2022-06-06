@@ -2,7 +2,7 @@
 ## Contacts
 - location: Ukarine, Lviv
 - email: dana_st_s@ukr.net
-- phone: +380680364435
+
 ## Briefly About Myself:
 I have been working as a land surveying engineer for 14 years and I really want to try myself in another field. I was interested in Front End development. This is a great opportunity to develop and learn.
 ## Skills
