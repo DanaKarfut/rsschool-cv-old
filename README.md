@@ -1,1 +1,1 @@
-https://GITHUB-DanaKarfut.github.io/rsschool-cv/cv
+<https://DanaKarfut.github.io/rsschool-cv/cv>
